@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/hibernate5/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/hibernate-core-5.0.12.Final.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate5/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
